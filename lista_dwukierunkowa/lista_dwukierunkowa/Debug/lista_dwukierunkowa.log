@@ -1,0 +1,4 @@
+﻿  lista_dwukierunkowa.cpp
+c:\users\damia\source\repos\algorytmy_i_struktury_danych_umcs\lista_dwukierunkowa\lista_dwukierunkowa\lista_dwukierunkowa.cpp(42): warning C4715: 'lista_dwukierunkowa::front': not all control paths return a value
+c:\users\damia\source\repos\algorytmy_i_struktury_danych_umcs\lista_dwukierunkowa\lista_dwukierunkowa\lista_dwukierunkowa.cpp(46): warning C4715: 'lista_dwukierunkowa::back': not all control paths return a value
+  lista_dwukierunkowa.vcxproj -> C:\Users\damia\source\repos\algorytmy_i_struktury_danych_umcs\lista_dwukierunkowa\Debug\lista_dwukierunkowa.exe

@@ -1,0 +1,7 @@
+﻿  sortowanie.cpp
+c:\users\damia\source\repos\algorytmy_i_struktury_danych_umcs\sortowanie\sortowanie\sortowanie.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\damia\source\repos\algorytmy_i_struktury_danych_umcs\sortowanie\sortowanie\sortowanie.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\damia\source\repos\algorytmy_i_struktury_danych_umcs\sortowanie\sortowanie\sortowanie.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\damia\source\repos\algorytmy_i_struktury_danych_umcs\sortowanie\sortowanie\sortowanie.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\damia\source\repos\algorytmy_i_struktury_danych_umcs\sortowanie\sortowanie\sortowanie.cpp(64): warning C4018: '<': signed/unsigned mismatch
+  sortowanie.vcxproj -> C:\Users\damia\source\repos\algorytmy_i_struktury_danych_umcs\sortowanie\Debug\sortowanie.exe

@@ -1,0 +1,12 @@
+﻿  drzewa_1.cpp
+c:\users\damia\source\repos\algorytmy_i_struktury_danych_umcs\drzewa_1\drzewa_1\drzewa_1.cpp(330): warning C4309: '=': truncation of constant value
+c:\users\damia\source\repos\algorytmy_i_struktury_danych_umcs\drzewa_1\drzewa_1\drzewa_1.cpp(331): warning C4309: '=': truncation of constant value
+c:\users\damia\source\repos\algorytmy_i_struktury_danych_umcs\drzewa_1\drzewa_1\drzewa_1.cpp(332): warning C4309: '=': truncation of constant value
+c:\users\damia\source\repos\algorytmy_i_struktury_danych_umcs\drzewa_1\drzewa_1\drzewa_1.cpp(445): warning C4018: '<': signed/unsigned mismatch
+c:\users\damia\source\repos\algorytmy_i_struktury_danych_umcs\drzewa_1\drzewa_1\drzewa_1.cpp(449): warning C4018: '<': signed/unsigned mismatch
+c:\users\damia\source\repos\algorytmy_i_struktury_danych_umcs\drzewa_1\drzewa_1\drzewa_1.cpp(453): warning C4018: '<': signed/unsigned mismatch
+c:\users\damia\source\repos\algorytmy_i_struktury_danych_umcs\drzewa_1\drzewa_1\drzewa_1.cpp(480): warning C4018: '<': signed/unsigned mismatch
+c:\users\damia\source\repos\algorytmy_i_struktury_danych_umcs\drzewa_1\drzewa_1\drzewa_1.cpp(508): warning C4309: '=': truncation of constant value
+c:\users\damia\source\repos\algorytmy_i_struktury_danych_umcs\drzewa_1\drzewa_1\drzewa_1.cpp(509): warning C4309: '=': truncation of constant value
+c:\users\damia\source\repos\algorytmy_i_struktury_danych_umcs\drzewa_1\drzewa_1\drzewa_1.cpp(510): warning C4309: '=': truncation of constant value
+  drzewa_1.vcxproj -> C:\Users\damia\source\repos\algorytmy_i_struktury_danych_umcs\drzewa_1\Debug\drzewa_1.exe
